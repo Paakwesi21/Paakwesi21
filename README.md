@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paakwesi21
+- 👋 Hi, I’m @Harry
 - 👀 I’m interested in sql, Html, css, javaScript, python and cloud computing
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web design and software engineering
