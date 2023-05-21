@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harry
 - 👀 I’m interested in sql, Html, css, javaScript, python and cloud computing
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web design and software engineering
+- 🌱 I’m currently learning Linux
+- 💞️ I’m looking to collaborate on web design, software engineering, linux and devops
 - 📫 How to reach me at kwesiglory@gmail.com
 
 <!---
