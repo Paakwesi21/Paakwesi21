@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harry
 - 👀 I’m interested in Power apps, linux, sql, Html, css, python, cyber security, prompt engineering and cloud computing
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Linux and working on some power app projects
 - 💞️ I’m looking to collaborate on web design, software engineering, linux and devops
 - 📫 How to reach me at kwesiglory@gmail.com
 
